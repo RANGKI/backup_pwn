@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  run:
+    build: .
+    restart: always
+    ports:
+      - "5200:5000"
+    network_mode: bridge

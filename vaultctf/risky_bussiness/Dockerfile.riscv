@@ -1,0 +1,24 @@
+FROM debian:bookworm-slim
+
+# Install QEMU and GDB
+RUN apt update && apt install -y \
+    qemu-user \
+    qemu-user-static \
+    gdb \
+    gdbserver \
+    ca-certificates \
+    && apt clean && rm -rf /var/lib/apt/lists/*
+
+# Set up working directory
+WORKDIR /app
+
+# Copy challenge binary and RISC-V rootfs
+COPY . .
+COPY riscv_rootfs/ /riscv_rootfs/
+
+# Ensure binary is executable
+RUN chmod +x /app/chall
+
+# Run using QEMU with RISC-V sysroot
+ENV QEMU_LD_PREFIX=/riscv_rootfs
+ENTRYPOINT ["qemu-riscv64", "./chall"]

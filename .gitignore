@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.img
+*.ext3
+*.xz
+*.zip
+*.tar
+*.bin
+MyFirstGame_Data/
+ctftime

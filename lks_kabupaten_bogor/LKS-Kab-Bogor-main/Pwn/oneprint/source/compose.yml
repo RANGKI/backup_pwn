@@ -1,0 +1,6 @@
+services:
+  oneprint:
+    build: .
+    ports:
+      - "16000:1337"
+    restart: always

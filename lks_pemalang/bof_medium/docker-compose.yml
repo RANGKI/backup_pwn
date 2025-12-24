@@ -1,0 +1,7 @@
+services:
+  medium:
+    build: .
+    ports:
+    - 13373:8000
+    entrypoint: /etc/init.sh
+    restart: always

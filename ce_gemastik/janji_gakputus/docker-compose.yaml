@@ -1,0 +1,8 @@
+services:
+  pwn-an-unbreakable-promise:
+    build: .
+    ports:
+      - "2003:1337"
+    restart: unless-stopped
+    privileged: true
+    container_name: pwn-an-unbreakable-promise

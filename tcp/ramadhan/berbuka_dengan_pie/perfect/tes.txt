@@ -1,0 +1,507 @@
+[*] '/home/dadan/pwn/tcp/ramadhan/berbuka_dengan_pie/perfect/chall'
+    Arch:       amd64-64-little
+    RELRO:      Full RELRO
+    Stack:      Canary found
+    NX:         NX enabled
+    PIE:        PIE enabled
+    Stripped:   No
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n0 ==> %0$p\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n1 ==> 0x7ffff7faab23\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n3 ==> 0x7ffff7ea47e2\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n5 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n6 ==> 0x3625203e3d3d2036\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n8 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n9 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n10 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n11 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n12 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n13 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n14 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n16 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n18 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n19 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n20 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n21 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n22 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n23 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n25 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n26 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n27 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n28 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n30 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n31 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n32 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n34 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n35 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n36 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n37 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n38 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n39 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n40 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n41 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n43 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n45 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n46 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n48 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n49 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n50 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n52 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n53 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n55 ==> 0x7ffff7fab6a0\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n56 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n57 ==> 0x7ffff7e1e3f5\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n58 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n59 ==> 0x7ffff7fab6a0\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n60 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n61 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n65 ==> 0x7ffff7e116e5\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n66 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n67 ==> 0x7fffffffeb70\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n68 ==> 0x7fffffffec98\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n69 ==> 0x55555555539e\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n70 ==> 0x555555557d78\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n72 ==> 0x7fffffffeb80\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n73 ==> 0x5555555553b6\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n74 ==> 0x1\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n75 ==> 0x7ffff7db9d90\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n76 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n77 ==> 0x55555555539e\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n79 ==> 0x7fffffffec98\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n80 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n81 ==> 0x99ac15a8dac453f\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n82 ==> 0x7fffffffec98\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n83 ==> 0x55555555539e\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n84 ==> 0x555555557d78\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n85 ==> 0x7ffff7ffd040\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n86 ==> 0x654367a7574876eb\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n87 ==> 0xe6570e4b8a34e8bc\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n88 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n89 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n90 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n92 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n93 ==> 0xf9df36dc27380500\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n94 ==> (nil)\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n97 ==> 0x555555557d78\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n98 ==> 0x7ffff7ffe2e0\napa alasan mengapa dia itu perfect ?\n"
+[*] Closed connection to 127.0.0.1 port 1470
+[x] Opening connection to 127.0.0.1 on port 1470
+[x] Opening connection to 127.0.0.1 on port 1470: Trying 127.0.0.1
+[+] Opening connection to 127.0.0.1 on port 1470: Done
+b"sebutkan di dunia ini apa yang 'Perfect' menurut kamu?\n"
+[*] Closed connection to 127.0.0.1 port 1470

