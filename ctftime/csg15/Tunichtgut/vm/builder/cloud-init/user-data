@@ -1,0 +1,33 @@
+#cloud-config
+runcmd:
+ - mount -t iso9660 -o ro /dev/cdrom /mnt/
+ - /mnt/vm-setup.sh
+ - umount /mnt
+ - rm -rf /var/cache/apt /var/lib/apt/lists # Save some space please
+ - systemctl mask serial-getty@ttyS0.service # No console login, we have SSH for that
+ - reboot
+
+# No messing with the filesystem please
+growpart:
+  mode: "off"
+resize_rootfs: false
+
+# No special users please, only root.
+users:
+ - name: root
+   lock_passwd: true
+   shell: /bin/bash
+   ssh_authorized_keys: ["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDpbQx2OPvSFA39KI+0MVTMvTo+4vKHnQ9EaiwA9viqV hlt"] # To access the VM, specify your public key here.
+
+# SSH access as root. This isn't really a problem, since we (a) don't expose the SSH port on the VM unless --ssh is specified and (b) don't map the port out of the outer Docker.
+disable_root: false
+ssh_genkeytypes: ["ed25519"]
+ssh_quiet_keygen: true
+no_ssh_fingerprints: true
+ssh:
+  emit_keys_to_console: false
+
+# Unfortunately, the disk image will not really be small. The only thing that might make
+# sense to uninstall is python3, and we need that at least until cloud-init finishes...
+
+# vim:syntax=yaml:

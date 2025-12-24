@@ -1,0 +1,3 @@
+3 -> 2 -> 6 -> 13 -> 12 = mendapatkan /bin/sh hanya di rcx
+3 -> 2 -> 6 -> 13 -> 12 -> 6 -> 12 = mendapatkan /bin/sh hanya di rcx dan rsi
+3 -> 2 -> 6 -> 13 -> 14 -> 0 -> 12 -> 13 = mendapatkan bin_sh dan 0x81cf888 untuk di xor ke rdi kemudian nantinya

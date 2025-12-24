@@ -1,0 +1,518 @@
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401212
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 64B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x401212
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401213
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401213
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401214
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401214
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401215
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401215
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401216
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401216
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401217
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401217
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401218
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 64B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x401218
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401219
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 64B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x401219
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40121a
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40121a
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40121b
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40121b
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40121c
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40121c
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40121d
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40121d
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40121e
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40121e
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40121f
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x40121f
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401220
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401220
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401221
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401221
+i like to jump where ever you say 
+give me the address to go : Failed to read line
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401222
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 148B
+[+] Receiving all data: Done (148B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401222
+i like to jump where ever you say 
+give me the address to go : Failed to read line
+Fatal error: glibc detected an invalid stdio handle
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401223
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 95B
+[+] Receiving all data: Done (95B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401223
+i like to jump where ever you say 
+give me the address to go : Failed to read line
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401224
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401224
+i like to jump where ever you say 
+give me the address to go : 0401224
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401225
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401225
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401226
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 64B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x401226
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401227
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401227
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401228
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401228
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401229
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 83B
+[+] Receiving all data: Done (83B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401229
+i like to jump where ever you say 
+give me the address to go : 0401229
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40122a
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40122a
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40122b
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40122b
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40122c
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x40122c
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40122d
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40122d
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40122e
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 127B
+[+] Receiving all data: Done (127B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40122e
+i like to jump where ever you say 
+give me the address to go : Fatal error: glibc detected an invalid stdio handle
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40122f
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40122f
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401230
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 10B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401230
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401231
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401231
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401232
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 127B
+[+] Receiving all data: Done (127B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401232
+i like to jump where ever you say 
+give me the address to go : Fatal error: glibc detected an invalid stdio handle
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401233
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 127B
+[+] Receiving all data: Done (127B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401233
+i like to jump where ever you say 
+give me the address to go : Fatal error: glibc detected an invalid stdio handle
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401234
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401234
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401235
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401235
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401236
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401236
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401237
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401237
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401238
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401238
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401239
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x401239
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40123a
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+0x40123a
+i like to jump where ever you say 
+give me the address to go :
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x40123b
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 80B
+[+] Receiving all data: Done (80B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778

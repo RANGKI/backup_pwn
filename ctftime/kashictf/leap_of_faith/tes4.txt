@@ -1,0 +1,15 @@
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[+] Opening connection to kashictf.iitbhucybersec.in on port 18778: Done
+Tried with address: 0x401170
+[x] Receiving all data
+[x] Receiving all data: 0B
+[x] Receiving all data: 64B
+[x] Receiving all data: 74B
+[+] Receiving all data: Done (74B)
+[*] Closed connection to kashictf.iitbhucybersec.in port 18778
+i like to jump where ever you say 
+give me the address to go : 0x401170
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778
+[x] Opening connection to kashictf.iitbhucybersec.in on port 18778: Trying 34.41.106.173
+[-] Opening connection to kashictf.iitbhucybersec.in on port 18778: Failed

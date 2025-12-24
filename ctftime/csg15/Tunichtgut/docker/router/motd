@@ -1,0 +1,7 @@
+
+This machine is a gateway that routes traffic between the internal network and
+the internet. For your convenience, the following programs are preinstalled:
+ - iproute2 (e.g. [32mip addr[0m)
+ - tcpdump  (e.g. [32mtcpdump -w packets.pcap[0m)
+ - python3  (e.g. [32mpython3 -m venv environment[0m)
+

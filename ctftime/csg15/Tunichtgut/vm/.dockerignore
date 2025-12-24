@@ -1,0 +1,4 @@
+builder/
+build.sh
+artifacts/base-image.qcow2
+artifacts/cloud-init.iso

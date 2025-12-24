@@ -1,0 +1,11 @@
+services:
+  tunichtgut:
+    image: tunichtgut
+    pull_policy: never
+    build: vm
+    devices:
+      - "/dev/kvm:/dev/kvm"
+    ports:
+      - "1024:1024/tcp"
+    environment:
+      FLAG: ${FLAG:-The server will have the real flag instead of this}

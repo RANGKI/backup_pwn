@@ -1,0 +1,51 @@
+services:
+  victim:
+    build: victim
+    pull_policy: never
+    image: tunichtgut/victim
+    hostname: victim
+    devices:
+      - "/dev/net/tun:/dev/net/tun:rwm"
+    cap_add:
+      - NET_ADMIN
+    networks:
+      default:
+        ipv4_address: 172.27.24.42
+        ipv6_address: fd27:24f4::2a
+    configs:
+      - flag
+    environment:
+      DNS: 1.1.1.1
+      ROUTER_IPV4: 172.27.24.2
+      ROUTER_IPV6: fd27:24f4::2
+
+  router:
+    build: router
+    pull_policy: never
+    image: tunichtgut/router
+    hostname: router
+    cap_add:
+      - NET_ADMIN
+    networks:
+      default:
+        ipv4_address: 172.27.24.2
+        ipv6_address: fd27:24f4::2
+    sysctls:
+      net.ipv4.ip_forward: 1
+      net.ipv6.conf.all.forwarding: 1
+    ports:
+      - 1024:1024
+
+networks:
+  default:
+    driver: bridge
+    enable_ipv6: true
+    ipam:
+      driver: default
+      config:
+        - subnet: "172.27.24.0/24"
+        - subnet: "fd27:24f4::/80"
+
+configs:
+  flag:
+    content: ${FLAG:-The server will have the real flag instead of this}

@@ -1,0 +1,18 @@
+[Unit]
+Description=Challenge service
+Requires=docker.service
+After=docker.service
+
+[Service]
+Restart=always
+WorkingDirectory=/challenge/
+ExecStart=/challenge/challenge.sh start
+ExecStop=/challenge/challenge.sh stop
+
+# Log to the console so people can actually see what is going on - this is a bit cursed, but alas.
+StandardOutput=tty
+StandardError=tty
+TTYPath=/dev/ttyS0
+
+[Install]
+WantedBy=default.target
